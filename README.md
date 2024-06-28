@@ -1,5 +1,3 @@
-# Redução-dos-Custos-em-Farmácias-com-AWS
-
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 **Data:** 28 de junho de 2024  
